@@ -1,4 +1,2 @@
-day 01 - need to complete full git and git hub
-till advanced lvl 
-
-hope i complete 
+day 01 - 
+learnt how to push to the repo 
